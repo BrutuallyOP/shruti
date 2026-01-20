@@ -33,7 +33,7 @@ const CONFIG = {
         },
 
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹💘",
+            text: "Will you be my Valentine on February 14th, 2026? 🌹💘",  // current year : 2026
             yesBtn: "YES BABY ❤️🥰",
             noBtn: "I can’t say no 😭💖"
         }
