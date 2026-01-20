@@ -4,10 +4,10 @@
 
 const CONFIG = {
 
-    valentineName: "shruti 💖",
+    valentineName: "Shruti 💖", // first names should be in Title Case
 
     // The title that appears in the browser tab
-    pageTitle: "Hey shruti… Will You Be My Valentine? 💝🌹",
+    pageTitle: "Hey Shruti… Will You Be My Valentine? 💝🌹",
 
     // Floating emojis that appear in the background
     floatingEmojis: {
